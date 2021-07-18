@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\fileShare"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\file-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "File-Transfer-Frontend-master"
+	}
+}
